@@ -1,4 +1,18 @@
-partners-list
+Partners / Sponsors List
+=============
+
+The purpose of this list is to **help developer-focused event organizers**, anywhere in the world, to find **contact information** for companies that are interested in helping partner, or sponsor events. 
+
+The time each company takes to reply may vary, and it **does not mean** that sending your requests to them will **guarantee partnerships/sponsorships**.
+
+Please try to include some basic information such as:
+
+- Event Name
+- Date
+- Location (Venue, City, Country)
+- Partner / Sponsorship Requirements
+
+Let's throw some kick-ass events!
 =============
 
 ###SendGrid - Email API
