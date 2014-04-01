@@ -35,3 +35,6 @@ Reach out to mmanzur@marketo.com
 
 ###Concur - Travel and Expense APIs
 Reach out to chris.ismael@concur.com , http://twitter.com/concurapi
+
+###Shutterstock - Photo API
+Reach out to nhughes@shutterstock.com, http://twitter.com/shuttertech
