@@ -41,3 +41,6 @@ Reach out to nhughes@shutterstock.com, http://twitter.com/shuttertech
 
 ###Mashery - Network of 40+ APIs
 Reach out with deets to Sarah-Jane at smorris@mashery.com
+
+###Rdio - Music API
+developersupport@rd.io, http://twitter.com/rdioapi, http://www.rdio.com/developers/
