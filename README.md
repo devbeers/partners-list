@@ -44,3 +44,6 @@ Reach out with deets to Sarah-Jane at smorris@mashery.com
 
 ###Rdio - Music API
 developersupport@rd.io, http://twitter.com/rdioapi, http://www.rdio.com/developers/
+
+###Microsoft
+Reach out to your local Microsoft Evangelist. http://tech-advisors.msdn.microsoft.com/en-us 
