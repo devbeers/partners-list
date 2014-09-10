@@ -18,6 +18,9 @@ Let's throw some kick-ass events!
 ###SendGrid - Email API
 Reach out to us at community@sendgrid.com
 
+###PayPal - Online Payment Solution
+Reach out to us at developers@paypal.com
+
 ###TokBox - Live Video streaming API over WebRTC
 Reach out to marketing@tokbox.com
 
