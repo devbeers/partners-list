@@ -10,6 +10,7 @@ Please try to include some basic information such as:
 - Event Name
 - Date
 - Location (Venue, City, Country)
+- Approximate number of attendees expected
 - Partner / Sponsorship Requirements
 
 Let's throw some kick-ass events!
@@ -32,6 +33,9 @@ Reach out to team@keen.io, justin@keen.io, http://twitter.com/keen_io
 
 ###GitHub - Tools for Software Collaboration
 Give us your event details at http://community.github.com
+
+###DigitalOcean - Simple Cloud Hosting
+Use our Sponsorship Request form: http://sponsorship.digitalocean.com/
 
 ###Marketo - Marketing Automation Platform
 Reach out to mmanzur@marketo.com
