@@ -54,3 +54,6 @@ developersupport@rd.io, http://twitter.com/rdioapi, http://www.rdio.com/develope
 
 ###Microsoft
 Reach out to your local Microsoft Evangelist. http://tech-advisors.msdn.microsoft.com/en-us 
+
+###iugu - Online Payment Infrastructure
+Reach out to rosi@iugu.com
