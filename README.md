@@ -57,3 +57,6 @@ Reach out to your local Microsoft Evangelist. http://tech-advisors.msdn.microsof
 
 ###iugu - Online Payment Infrastructure
 Reach out to rosi@iugu.com
+
+###JetBrains - World's Leading Vendor of Professional Development Tools
+Reach out to sponsorships@jetbrains.com
