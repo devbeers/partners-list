@@ -17,4 +17,4 @@ Reach out to team@keen.io, justin@keen.io, http://twitter.com/keen_io
 Give us your event details at http://community.github.com
 
 ###Marketo - Marketing Automation Platform
-Reach out to mmanzur@marketo.com
+Reach out to developer-relations@marketo.com
