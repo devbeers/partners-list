@@ -1,7 +1,7 @@
 Partners / Sponsors List
 =============
 
-The purpose of this list is to **help developer-focused event organizers**, anywhere in the world, to find **contact information** for companies that are interested in helping partner, or sponsor events. 
+The purpose of this list is to **help developer-focused event organizers**, anywhere in the world, to find **contact information** for companies that are interested in helping partner, or sponsor events.
 
 The time each company takes to reply may vary, and it **does not mean** that sending your requests to them will **guarantee partnerships/sponsorships**.
 
@@ -38,7 +38,7 @@ Give us your event details at http://community.github.com
 Use our Sponsorship Request form: http://sponsorship.digitalocean.com/
 
 ###Marketo - Marketing Automation Platform
-Reach out to mmanzur@marketo.com
+Reach out to developer-relations@marketo.com
 
 ###Concur - Travel and Expense APIs
 Reach out to chris.ismael@concur.com , http://twitter.com/concurapi
@@ -53,7 +53,7 @@ Reach out with deets to Sarah-Jane at smorris@mashery.com
 developersupport@rd.io, http://twitter.com/rdioapi, http://www.rdio.com/developers/
 
 ###Microsoft
-Reach out to your local Microsoft Evangelist. http://tech-advisors.msdn.microsoft.com/en-us 
+Reach out to your local Microsoft Evangelist. http://tech-advisors.msdn.microsoft.com/en-us
 
 ###iugu - Online Payment Infrastructure
 Reach out to rosi@iugu.com
@@ -63,5 +63,3 @@ Reach out to sponsorships@jetbrains.com
 
 ###Respoke - Web Communications Platform (add live audio, video, data, messaging, and screensharing natively in the browser)
 Reach out to ktyacke@respoke.io
-
-
